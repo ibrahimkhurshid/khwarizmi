@@ -1,6 +1,7 @@
 # khwarizmi
 The word "algorithm" can be traced back to the 9th century when it was coined by the Persian mathematician Abdullah Muhammad bin Musa al-Khwarizmi, who is often referred to as "The Father of Algebra."
 
+![Alt text](https://upload.wikimedia.org/wikipedia/commons/9/99/Al_Khorezmy.jpg "al-khwarizmi")
 
 # List
 1. 1540 — method to find the roots of a quartic polynomial
